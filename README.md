@@ -4,7 +4,9 @@
 This is an ongoing project that includes assessments and assignments by **ALX** coding Bootcamp facilitated by **Holberton** coding school.
 
 ## Intro
-(To be updated).
+> Do hard things. Fred Swaniker from day one in this program Fred Swaniker always said that to solve the world's biggest problems you have to do hard things.
+> To my future employers, this Repo is one of many programs-assignments through the ALX Africa Software Engineering program.
+> To my dear peers and ALX cohort colleagues, I hope you find this repo helpful in clarifying a few things. Remember ~plagiarism~ ❌ Creativity ✅
 
 ## References and learning Resources
 (To be updated).
@@ -20,5 +22,6 @@ This is an ongoing project that includes assessments and assignments by **ALX** 
 ## Aknowledgements
 (To be updated).
 
-
-
+## Contact
+- Feel free to reach drop a message here [Say hi](yousef_i44@protonmail.com)
+- If you notice any errors please add a pull request.
