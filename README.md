@@ -1,4 +1,5 @@
-# ALX-low level programming Data Structure, Algorithms, Bash Scripting, Linux/Unix System Programming.
+# ALX-low level programming Data Structure, Algorithms, Bash Scripting, Linux/Unix System Programming. 
+![](https://user-images.githubusercontent.com/59213365/196201202-f16b0617-96aa-4f41-9330-d83e3cdfd094.jpg)
 ## About
 This is an ongoing project that includes assessments and assignments by **ALX** coding Bootcamp facilitated by **Holberton** coding school.
 
@@ -9,8 +10,8 @@ This is an ongoing project that includes assessments and assignments by **ALX** 
 (To be updated).
 
 ## Credits
--[ALX Africa](https://https://www.alxafrica.com/"ALX Program")
--[Holberton School](https://www.holbertonschool.com/"Holberton School)
+- [ALX Africa](https://www.alxafrica.com/ "ALX Program")
+- [Holberton School](https://www.holbertonschool.com/ "Holberton School")
 
 ## Auther 
 [Yousef Ismail](https://github.com/YousefIbrahimismail/ "Github Profile")
